@@ -1,19 +1,15 @@
 # Hello there! I'm Alvin
 
----
-
 I am a Computer Science graduate from the University of Portsmouth.
 
 Pronouns: He/Him  
 
-Contact
+## Contact
 
 - Email: [alvin_fung9@outlook.com]
 - Discord: Ramen#4772
 
----
-
-Languages
+## Languages
 
 - Python
 - Java
