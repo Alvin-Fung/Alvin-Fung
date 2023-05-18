@@ -1,10 +1,6 @@
-# H1
-
-Hello there! I'm Alvin
+# Hello there! I'm Alvin
 
 ---
-
-## H2
 
 I am a Computer Science graduate from the University of Portsmouth.
 
