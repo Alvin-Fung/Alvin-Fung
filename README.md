@@ -2,7 +2,7 @@
 
 I am a Computer Science graduate from the University of Portsmouth.
 
-Pronouns: He/Him  
+Pronouns: He/They  
 
 ## Contact
 
