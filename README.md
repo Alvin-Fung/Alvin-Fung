@@ -10,11 +10,9 @@ Pronouns: He/They
 - Wesbite: <https://alvinfung.me>
 - Discord: Ramen#4772
 
-## Languages
+## Favourite Languages
 
 - Python
-- Java
-- HTML & CSS
 - Javascript
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alvin-Fung&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
