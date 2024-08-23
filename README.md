@@ -8,7 +8,7 @@ Pronouns: He/They
 
 - Email: [alvin_fung9@outlook.com]
 - Wesbite: <https://alvinfung.me>
-- Discord: Ramen#4772
+- Discord: topnotchramen
 
 ## Favourite Languages
 
